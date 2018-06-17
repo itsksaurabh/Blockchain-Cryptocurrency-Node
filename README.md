@@ -1,5 +1,4 @@
 # Node-Blockchain-CryptoCurrency
-<hr>
 
 A powerful and secure Blockchain Network with CryptoCurrency.
 
