@@ -2,7 +2,7 @@
 
 A powerful and secure Blockchain Network with CryptoCurrency.
 
-- References : https://bitcoin.org/bitcoin.pdf
+- References : <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper - Bitcoin: A Peer-to-Peer Electronic Cash System By Satoshi Nakamoto</a>
 
 # Features
 
