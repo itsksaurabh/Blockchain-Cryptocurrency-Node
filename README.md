@@ -1,6 +1,6 @@
 # Node-Blockchain-CryptoCurrency
 
-A powerful and secure Blockchain Network with CryptoCurrency.
+A powerful and secure decentralized Blockchain Network with CryptoCurrency.
 
 - References : <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper - Bitcoin: A Peer-to-Peer Electronic Cash System By Satoshi Nakamoto</a>
 
