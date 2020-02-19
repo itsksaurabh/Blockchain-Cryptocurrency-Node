@@ -4,7 +4,7 @@
   "description": "a blockchain based on node.js",
   "main": "app.js",
   "scripts": {
-    "test": "jest --watchAll",
+    "test": "jest --forceExit",
     "start": "node ./app",
     "dev": "nodemon ./app"
   },
