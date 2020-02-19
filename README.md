@@ -1,5 +1,8 @@
 # Node-Blockchain-CryptoCurrency
 
+[![itsksaurabh](https://circleci.com/gh/itsksaurabh/Blockchain-Cryptocurrency-Node.svg?style=shield)](https://app.circleci.com/jobs/github/itsksaurabh/Blockchain-Cryptocurrency-Node/14)
+[![MIT License](https://img.shields.io/github/license/itsksaurabh/Blockchain-Cryptocurrency-Node)](http://opensource.org/licenses/MIT)
+___
 A powerful and secure decentralized Blockchain Network with CryptoCurrency.
 
 - References : <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper - Bitcoin: A Peer-to-Peer Electronic Cash System By Satoshi Nakamoto</a>
